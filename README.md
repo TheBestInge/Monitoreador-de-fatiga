@@ -1,3 +1,5 @@
+EN EL ARCHIVO HTML ESTA ESPECIFICADO TODO EL FUNCIONAMIENTO DE EL PROYECTO PASO A PASO
+
 
 En este proyecto se utilizará Mediapipe para estimar puntos de referencia tanto faciales como corporales, obtenidos directamente de una WebCam a través de la OpenCV . Con esos datos, se crearán modelos personalizados de clasificación de poses que le permitan decodificar lo que una persona podría estar diciendo con su lenguaje corporal con gran precisión, adaptando a las necesidades de cada aplicación. En este proyecto en concreto, se tratará de realizar detección de somnolencia para conductores.
 
